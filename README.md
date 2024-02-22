@@ -4,8 +4,6 @@
 
 论文：2019 Fast 3D Line Segment Detection From Unorganized Point Cloud
 
-You also can find this article in my repo "example" in folder "reference".
-
 These materialmay help you learn this code. {[csdn](https://blog.csdn.net/m0_37957160/article/details/106823271), [zhihu](https://zhuanlan.zhihu.com/p/353878655)}
 
 
